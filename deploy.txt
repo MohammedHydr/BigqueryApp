@@ -1,0 +1,5 @@
+docker build -t gcr.io/cognativex-intern/biquery-app:latest .
+https://cloud.google.com/build/docs/deploying-builds/deploy-cloud-run#cloud-run
+https://blog.truaro.dev/deploying-an-app-in-gcp-part1/
+https://bigquery-run-app-mtcxd5sxua-uc.a.run.app
+gcloud builds submit
